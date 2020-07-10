@@ -35,7 +35,7 @@ noc <- read.table('data/nocardia_assemblies.txt', stringsAsFactors = F)
 
 # On MSI:
 
-# ssh yourusername@umn.edu
+# ssh yourusername@login.msi.umn.edu
 
 # After password prompt, you will need to connect to mesabi:
 
